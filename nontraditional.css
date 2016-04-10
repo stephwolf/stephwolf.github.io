@@ -1,0 +1,88 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       width: 800px;
+       margin: 0 auto;
+    }
+
+    header {
+        padding:5px;
+        text-align: center;
+        border: 10px solid #666666;
+        background:url(http://images.clipartpanda.com/money-tree-wallpaper-money-tree.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: contain;
+        font-size: 30px;
+        font-weight: bolder;
+        display: block;
+        width: 790px;
+        font-family: fantasy;
+    }
+    nav {
+        line-height:;
+        background-color:#666666;
+        padding:5px;
+        width:810px;
+        height:50px;
+        display:inline-block;
+        vertical-align:middle;
+    }
+    nav ul {
+
+        list-style-type:none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+  article ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        badground-color: #666666;
+    }
+
+    nav li {
+        float:left;
+    }
+
+    nav li a {
+        color: white;
+        display:block;
+        text-align: center;
+        text-decoration: none;
+        padding:25px;
+        font-size: 20px;
+        font-family: fantasy;
+    }
+    li a:hover {
+      background-color:22A213;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
